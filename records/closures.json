@@ -1,0 +1,19 @@
+[
+  {
+    "scenario": "同校停用",
+    "groups": [
+      "g1",
+      "g2"
+    ]
+  },
+  {
+    "scenario": "跨日班交通",
+    "groups": [
+      "g3"
+    ]
+  },
+  {
+    "scenario": "无额外变动",
+    "groups": []
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "student": "s5",
+    "visit": "临时交通",
+    "groups": [
+      "g1",
+      "g4"
+    ]
+  },
+  {
+    "student": "s9",
+    "visit": "晚间交通",
+    "groups": [
+      "g2"
+    ]
+  },
+  {
+    "student": "s10",
+    "visit": "临时交通",
+    "groups": [
+      "g2",
+      "g3"
+    ]
+  },
+  {
+    "student": "s4",
+    "visit": "晚间交通",
+    "groups": [
+      "g4"
+    ]
+  }
+]

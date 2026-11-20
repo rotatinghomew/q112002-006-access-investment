@@ -47,5 +47,20 @@
     "end",
     "units",
     "received"
+  ],
+  "possibilities": [
+    "student",
+    "visit",
+    "groups"
+  ],
+  "closures": [
+    "scenario",
+    "groups"
+  ],
+  "confirmations": [
+    "student",
+    "group",
+    "response",
+    "received"
   ]
 }

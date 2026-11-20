@@ -1,0 +1,26 @@
+[
+  {
+    "student": "s10",
+    "group": "g2",
+    "response": "accept",
+    "received": 18
+  },
+  {
+    "student": "s10",
+    "group": "g3",
+    "response": "decline",
+    "received": 18
+  },
+  {
+    "student": "s5",
+    "group": "g4",
+    "response": "accept",
+    "received": 19
+  },
+  {
+    "student": "s9",
+    "group": "g2",
+    "response": "decline",
+    "received": 22
+  }
+]

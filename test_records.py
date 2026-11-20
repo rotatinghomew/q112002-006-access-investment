@@ -14,6 +14,8 @@ class RecordsTest(unittest.TestCase):
     def test_documents_reference_source_records(self):
         self.references('offers','group','groups','group')
         self.references('offers','student','applications','student')
+        self.references('confirmations','group','groups','group')
+        self.assertTrue(any(len(row['groups']) > 1 for row in self.tables['closures']))
         group = {row['group']: row for row in self.tables['groups']}
         self.assertTrue(all(set(row['accepted_groups']) <= set(group) for row in self.tables['applications']))
         self.assertEqual(group['g1']['equipment'], group['g2']['equipment'])
