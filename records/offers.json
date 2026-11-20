@@ -1,0 +1,23 @@
+[
+  {
+    "offer": "f1",
+    "student": "s1",
+    "group": "g1",
+    "state": "accepted",
+    "minute": 1
+  },
+  {
+    "offer": "f2",
+    "student": "s6",
+    "group": "g1",
+    "state": "declined",
+    "minute": 2
+  },
+  {
+    "offer": "f3",
+    "student": "s3",
+    "group": "g3",
+    "state": "accepted",
+    "minute": 22
+  }
+]

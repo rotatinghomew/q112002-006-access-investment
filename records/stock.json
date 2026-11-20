@@ -1,0 +1,17 @@
+[
+  {
+    "equipment": "台式终端",
+    "day": 5,
+    "units": 1
+  },
+  {
+    "equipment": "台式终端",
+    "day": 6,
+    "units": 1
+  },
+  {
+    "equipment": "便携终端",
+    "day": 5,
+    "units": 0
+  }
+]

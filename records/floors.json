@@ -1,0 +1,10 @@
+[
+  {
+    "population": "通勤",
+    "min_covered": 2
+  },
+  {
+    "population": "设备",
+    "min_covered": 2
+  }
+]

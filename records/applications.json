@@ -1,0 +1,96 @@
+[
+  {
+    "student": "s1",
+    "eligible": true,
+    "population": "通勤",
+    "state": "request",
+    "accepted_groups": [
+      "g1",
+      "g4"
+    ]
+  },
+  {
+    "student": "s2",
+    "eligible": true,
+    "population": "通勤",
+    "state": "request",
+    "accepted_groups": [
+      "g1",
+      "g4"
+    ]
+  },
+  {
+    "student": "s3",
+    "eligible": true,
+    "population": "设备",
+    "state": "request",
+    "accepted_groups": [
+      "g2",
+      "g3"
+    ]
+  },
+  {
+    "student": "s4",
+    "eligible": true,
+    "population": "设备",
+    "state": "request",
+    "accepted_groups": [
+      "g2"
+    ]
+  },
+  {
+    "student": "s5",
+    "eligible": true,
+    "population": "通勤",
+    "state": "request",
+    "accepted_groups": [
+      "g2",
+      "g3"
+    ]
+  },
+  {
+    "student": "s6",
+    "eligible": true,
+    "population": "普通",
+    "state": "declined",
+    "accepted_groups": [
+      "g1",
+      "g2"
+    ]
+  },
+  {
+    "student": "s7",
+    "eligible": true,
+    "population": "设备",
+    "state": "wait",
+    "accepted_groups": [
+      "g2"
+    ]
+  },
+  {
+    "student": "s8",
+    "eligible": false,
+    "population": "普通",
+    "state": "request",
+    "accepted_groups": [
+      "g4"
+    ]
+  },
+  {
+    "student": "s9",
+    "eligible": true,
+    "population": "普通",
+    "state": "request",
+    "accepted_groups": [
+      "g3",
+      "g4"
+    ]
+  },
+  {
+    "student": "s10",
+    "eligible": true,
+    "population": "设备",
+    "state": "request",
+    "accepted_groups": []
+  }
+]

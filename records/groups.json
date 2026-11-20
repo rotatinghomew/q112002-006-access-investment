@@ -1,0 +1,42 @@
+[
+  {
+    "group": "g1",
+    "day": 5,
+    "start": 540,
+    "end": 630,
+    "seats": 2,
+    "equipment": "台式终端",
+    "units": 1,
+    "open": true
+  },
+  {
+    "group": "g2",
+    "day": 5,
+    "start": 600,
+    "end": 690,
+    "seats": 3,
+    "equipment": "台式终端",
+    "units": 1,
+    "open": true
+  },
+  {
+    "group": "g3",
+    "day": 6,
+    "start": 540,
+    "end": 630,
+    "seats": 2,
+    "equipment": "台式终端",
+    "units": 1,
+    "open": false
+  },
+  {
+    "group": "g4",
+    "day": 5,
+    "start": 600,
+    "end": 690,
+    "seats": 3,
+    "equipment": "便携终端",
+    "units": 1,
+    "open": false
+  }
+]

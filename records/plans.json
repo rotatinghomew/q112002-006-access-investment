@@ -1,0 +1,53 @@
+[
+  {
+    "plan": "基准",
+    "opens": [],
+    "extra_equipment": null,
+    "extra_day": null,
+    "extra_units": 0,
+    "cost": 0
+  },
+  {
+    "plan": "只开课",
+    "opens": [
+      "g3",
+      "g4"
+    ],
+    "extra_equipment": null,
+    "extra_day": null,
+    "extra_units": 0,
+    "cost": 50
+  },
+  {
+    "plan": "同日扩充",
+    "opens": [
+      "g4"
+    ],
+    "extra_equipment": "便携终端",
+    "extra_day": 5,
+    "extra_units": 1,
+    "cost": 80
+  },
+  {
+    "plan": "跨日补位",
+    "opens": [
+      "g3",
+      "g4"
+    ],
+    "extra_equipment": "台式终端",
+    "extra_day": 5,
+    "extra_units": 1,
+    "cost": 95
+  },
+  {
+    "plan": "设备组合",
+    "opens": [
+      "g3",
+      "g4"
+    ],
+    "extra_equipment": "便携终端",
+    "extra_day": 5,
+    "extra_units": 1,
+    "cost": 100
+  }
+]

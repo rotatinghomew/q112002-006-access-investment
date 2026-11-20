@@ -1,0 +1,51 @@
+{
+  "applications": [
+    "student",
+    "eligible",
+    "population",
+    "state",
+    "accepted_groups"
+  ],
+  "groups": [
+    "group",
+    "day",
+    "start",
+    "end",
+    "seats",
+    "equipment",
+    "units",
+    "open"
+  ],
+  "stock": [
+    "equipment",
+    "day",
+    "units"
+  ],
+  "plans": [
+    "plan",
+    "opens",
+    "extra_equipment",
+    "extra_day",
+    "extra_units",
+    "cost"
+  ],
+  "floors": [
+    "population",
+    "min_covered"
+  ],
+  "offers": [
+    "offer",
+    "student",
+    "group",
+    "state",
+    "minute"
+  ],
+  "outages": [
+    "equipment",
+    "day",
+    "start",
+    "end",
+    "units",
+    "received"
+  ]
+}
